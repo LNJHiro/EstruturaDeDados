@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
-#define tamanho 50001
+#define tamanho 50000
 
 typedef struct pilha {
 	int vetor[tamanho];
