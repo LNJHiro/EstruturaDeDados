@@ -1,7 +1,5 @@
 # EstruturaDeDados
 
-# Estudo de Estruturas de Dados Lineares (ED1)
-
 Trabalho acadêmico que compara o tempo de execução (em *clocks* de processador) de estruturas de dados lineares implementadas com **memória sequencial (vetores)** na linguagem C.
 
 # Como Compilar e Executar
